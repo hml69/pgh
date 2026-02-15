@@ -14,10 +14,10 @@ export const SKILLS: Skill[] = [
 // Added PROJECTS constant as required by ProjectsSection.tsx
 export const PROJECTS: Project[] = [
   {
-    images:'/images/domixi.webp',
-    title: 'Demo',
-    description: 'Cảm ơn anh Độ Mixi',
-    tags: ['PHP', 'Laravel', 'React', 'MySQL'],
-    link: '#'
+    images:'/images/thanbaitet.png',
+    title: 'Thần Bài Tết',
+    description: 'Thần Bài Tết - Ứng dụng tính điểm trò chơi sát phạt nhau miễn phí',
+    tags: ['Vite'],
+    link: 'https://thanbaitet.vercel.app/'
   }
 ];
