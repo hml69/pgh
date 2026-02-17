@@ -19,5 +19,12 @@ export const PROJECTS: Project[] = [
     description: 'Thần Bài Tết - Ứng dụng tính điểm trò chơi sát phạt nhau miễn phí',
     tags: ['Vite'],
     link: 'https://thanbaitet.vercel.app/'
+  },
+  {
+    images:'/images/tuimulixi.png',
+    title: 'Túi Mù Lì Xì',
+    description: 'Túi Mù Lì Xì - Mở túi nhận lộc - Đón Tết May Mắn',
+    tags: ['Vite'],
+    link: 'https://tuimulixi.vercel.app/'
   }
 ];
