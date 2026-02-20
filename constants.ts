@@ -16,14 +16,14 @@ export const PROJECTS: Project[] = [
     images:'/images/thanbaitet.png',
     title: 'Thần Bài Tết',
     description: 'Thần Bài Tết - Ứng dụng tính điểm trò chơi sát phạt nhau miễn phí',
-    tags: ['Vite'],
+    tags: ['React'],
     link: 'https://thanbaitet.vercel.app/'
   },
   {
     images:'/images/tuimulixi.png',
     title: 'Túi Mù Lì Xì',
     description: 'Túi Mù Lì Xì - Mở túi nhận lộc - Đón Tết May Mắn',
-    tags: ['Vite'],
+    tags: ['React'],
     link: 'https://tuimulixi.vercel.app/'
   }
 ];
