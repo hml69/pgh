@@ -13,6 +13,13 @@ export const SKILLS: Skill[] = [
 // Added PROJECTS constant as required by ProjectsSection.tsx
 export const PROJECTS: Project[] = [
   {
+    images:'/images/matmatinhban.png',
+    title: 'Mật mã Tình Bạn',
+    description: 'Mật mã Tình Bạn - Hệ thống mã hóa Emoji chính xác 100%. Bảo mật tuyệt đối giữa những người bạn.',
+    tags: ['Next.js'],
+    link: 'https://matmatinhban.vercel.app/'
+  },
+  {
     images:'/images/thanbaitet.png',
     title: 'Thần Bài Tết',
     description: 'Thần Bài Tết - Ứng dụng tính điểm trò chơi sát phạt nhau miễn phí',
