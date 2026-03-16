@@ -13,6 +13,13 @@ export const SKILLS: Skill[] = [
 // Added PROJECTS constant as required by ProjectsSection.tsx
 export const PROJECTS: Project[] = [
   {
+    images:'/images/iQIYI.png',
+    title: 'iQIYI',
+    description: 'Xem phim trực tuyến chất lượng cao miễn phí. Cập nhật phim mới nhất, phim hành động, tình cảm, hài hước, kinh dị, viễn tưởng...',
+    tags: ['Next.js'],
+    link: 'https://iqiyi-taupe.vercel.app/'
+  },
+  {
     images:'/images/matmatinhban.png',
     title: 'Mật mã Tình Bạn',
     description: 'Mật mã Tình Bạn - Hệ thống mã hóa Emoji chính xác 100%. Bảo mật tuyệt đối giữa những người bạn.',
